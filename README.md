@@ -1,5 +1,13 @@
 <h2 align="left">Olá 👋! Meu nome é Guilherme Magalhães e atuo na intersecção entre Análise de Dados, Redes de Computadores e Programação, com foco em automação.</h2>
 
+### 👨‍💻 Sobre minha jornada
+
+Sou um profissional com foco em visão sistêmica e resolução de problemas estruturais. Minha trajetória me permite transitar desde a criação da lógica até a infraestrutura que a sustenta:
+
+- 🎓 **Formação Base:** Graduado na área de Programação, possuo sólida base lógica e algorítmica.
+- 📊 **Atuação Prática:** Tenho experiência em Análise de Dados, transformando informações complexas em inteligência.
+- 🌐 **Foco Atual:** Atualmente cursando uma nova graduação em Redes de Computadores para aprofundar meu domínio em infraestrutura tecnológica e expandir minha capacidade de atuação em TI.
+
 ###
 
 <div align="left">
