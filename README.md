@@ -2,11 +2,11 @@
 
 ### 👨‍💻 Sobre minha jornada
 
-Sou um profissional com foco em visão sistêmica e resolução de problemas estruturais. Minha trajetória me permite transitar desde a criação da lógica até a infraestrutura que a sustenta:
+Sou um profissional focado em visão sistêmica e resolução de problemas estruturais. Minha trajetória na tecnologia começou com uma graduação na área de Programação, o que me proporcionou uma base lógica e algorítmica muito sólida para criar soluções.
 
-- 🎓 **Formação Base:** Graduado na área de Programação, possuo sólida base lógica e algorítmica.
-- 📊 **Atuação Prática:** Tenho experiência em Análise de Dados, transformando informações complexas em inteligência.
-- 🌐 **Foco Atual:** Atualmente cursando uma nova graduação em Redes de Computadores para aprofundar meu domínio em infraestrutura tecnológica e expandir minha capacidade de atuação em TI.
+Com o tempo, direcionei essa lógica para a área de Análise de Dados, onde adquiri experiência prática na transformação de informações brutas e complexas em inteligência útil. 
+
+Atualmente, estou cursando uma nova graduação, desta vez em Redes de Computadores. Meu objetivo prático agora é dominar a infraestrutura tecnológica que sustenta as aplicações e os dados, desenvolvendo uma visão completa de ponta a ponta na área de TI.
 
 ###
 
